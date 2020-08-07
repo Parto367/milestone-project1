@@ -26,6 +26,7 @@
 Saw a need for this website to help users in St Helens be able see their GP or some sort of health care.  
 This has not been produced before.  With Covid 19 causing a big impact on GP services.  
 This is trying to make the website a one stop shop for Patients to be directed to the right service at the right time. 
+ 
 </p>
 
 
@@ -36,6 +37,7 @@ The purpose is to bring this all to one place.
 This will therefore make the service much clearer and also easier for the patients.
 With this webiste the user will be able to provide their details online,
 then will be able to have a clinician get back to them to make the most appropriate appointment.  
+
 </p>
 
 # user stories 
